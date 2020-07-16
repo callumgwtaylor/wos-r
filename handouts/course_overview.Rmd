@@ -1,0 +1,13 @@
+---
+title: "Course Overview"
+output: html_notebook
+---
+
+
+# Resources
+
+[R for Data Science](https://r4ds.had.co.nz/)
+
+[Tidyverse](https://www.tidyverse.org/)
+
+[R Studio Cheat Sheets](https://rstudio.com/resources/cheatsheets/)
