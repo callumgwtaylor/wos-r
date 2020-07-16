@@ -1,0 +1,31 @@
+---
+title: "Geography of ICU + Delirium"
+output: html_document
+---
+
+## Introduction
+
+In this dataset we provide you with admission details for critical care, with the following:
+
+- Patient ID
+- Admission Number
+- Day of Admission
+- Bed Number
+- CAM-ICU
+- RASS
+
+## Questions We Want Answered
+
+- Which is the "busiest" unit?
+- Which is the "most popular" bed?
+
+- What are the proportion of admissions with delirium at some point?
+- Of admissions with delirium, what is the total number of days with delirium noted?
+
+- Are there differences in the above when comparing the two units?
+- Are there differences when comparing beds with/without windows?
+- Are there differences when comparing individual beds?
+
+- What about side rooms? Beds next to a main door? Beds tucked away in a corner?
+
+- What is the bed you most commonly find patients with delirium in?
