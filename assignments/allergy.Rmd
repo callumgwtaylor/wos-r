@@ -1,0 +1,29 @@
+---
+title: "Allergy Audit"
+output: html_document
+---
+
+## Introduction
+
+In this dataset we provide you two tables with admission details for critical care, with the following:
+
+- Patient ID
+- Admission Number
+- Allergy Status
+
+- Patient ID
+- Admission Number
+- Outcome
+
+
+## Questions We Want Answered
+
+The first aim of this dataset is it will get you to join together two tables.
+
+Once that is done, you will be able to see which admissions did not have allergy status recorded.
+
+What proportion of admissions had no drug allergy recorded?
+
+What allergies were most frequently recorded?
+
+Do any allergies appear to have different unit outcomes?
